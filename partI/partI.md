@@ -51,11 +51,6 @@ In April, 2025, Kong announced Kong Gateway 3.10 with the [5th version](https://
 
 The diagram below represents the Kong AI Gateway capabilities:
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](./static/images/kong_ai_gateway.jpg "image_tooltip")
 
 
@@ -64,11 +59,7 @@ The diagram below represents the Kong AI Gateway capabilities:
 Also, from the architecture perspective, in a nutshell, the Konnect Control Plane and Data Plane nodes topology remains the same.
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](./static/images/kong_reference_architecture.jpg)
 
 
 *The Kong AI Gateway sits in between the GenAI applications we build and the LLMs we consume. By leveraging the same underlying core of Kong Gateway, we're reducing complexity in deploying the AI Gateway capabilities as well. And of course, it works on Konnect, Kubernetes, self-hosted, or across multiple clouds.*
