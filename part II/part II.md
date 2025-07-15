@@ -665,8 +665,6 @@ Here’s the response the Agent got from the LLM model. As expected, it is instr
 
 You can check Kong Analytics dashboard, one more time, to see that only one request has been sent and processed.
 
-
-
 ![alt_text](./static/images/analytics.jpg)
 
 *Kong Konnect Analytics*
