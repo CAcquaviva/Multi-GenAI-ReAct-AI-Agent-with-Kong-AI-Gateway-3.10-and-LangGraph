@@ -539,11 +539,7 @@ Also, you should see your first Data Plane listed and connected to the previousl
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
-
+![alt_text](./static/images/data_plane.jpg)
 
 *Kong Konnect Data Plane*
 
