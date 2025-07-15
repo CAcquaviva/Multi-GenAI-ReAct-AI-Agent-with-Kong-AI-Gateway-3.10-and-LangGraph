@@ -918,11 +918,7 @@ If you don't change this line the code will get a 401 error code, saying that, s
 Now that we are a bit more familiar with Tools and Function Calling, we are going to enhance our LangGraph AI Agent and add the same Tools. Here's the new topology:
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](./static/images/tools.jpg)
 
 
 *Reference Architecture with external functions getting protected by the Kong AI Gateway*
@@ -942,7 +938,7 @@ Here are the main steps of the Agent:
 The LangGraph documentation has a [page](https://langchain-ai.github.io/langgraph/agents/agents/) where it describes an Agent with the main components.
 
 
-![alt_text](./static/images/tools.jpg)
+![alt_text](./static/images/agent.jpg)
 
 
 ### The Code
