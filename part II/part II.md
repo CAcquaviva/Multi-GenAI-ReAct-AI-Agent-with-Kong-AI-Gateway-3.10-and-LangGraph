@@ -178,11 +178,7 @@ State after invoking the graph
 Richard J. Trudeau, in his seminal book [“Introduction to Graph Theory”](https://archive.org/details/introductiontogr0000trud), has a succinct graph definition: “A graph is an object consisting of two sets called its ‘vertex set’ and its ‘edge set’. The vertex set is a finite nonempty set. The edge may be empty, but otherwise its elements are two-element subsets of the vertex set.”. In other words, a graph is a data structure consisting of a set of vertices (also called nodes) connected by edges. Here's a graph with 5 vertices (nodes) and 6 edges:
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](./static/images/graph.jpg)
 
 
 *Basic graph with 5 vertices and 6 edges*
