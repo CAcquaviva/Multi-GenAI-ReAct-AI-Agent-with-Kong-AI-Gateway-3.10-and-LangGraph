@@ -942,12 +942,7 @@ Here are the main steps of the Agent:
 The LangGraph documentation has a [page](https://langchain-ai.github.io/langgraph/agents/agents/) where it describes an Agent with the main components.
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
+![alt_text](./static/images/tools.jpg)
 
 
 ### The Code
