@@ -719,12 +719,7 @@ As you can see, the Agent sent 5 requests to Kong Data Plane (and therefore, GPT
 Moreover, the Konnect Control Plane provides extensive Analytics capabilities where you can check all requests processed by the Data Planes. Click on “Analytics” menu option and “Requests”:
 
 
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-
+![alt_text](./static/images/analytics2.jpg)
 
 *Kong Konnect processed requests*
 
