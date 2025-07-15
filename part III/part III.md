@@ -634,13 +634,7 @@ In Seattle, it is currently overcast with a temperature of 69.8°F (20.4°C) and
 
 With Kong AI Gateway 3.11 we will be able to support other GenAI infrastructures besides LLMs, including video, images, etc. The following diagram lists the new modes supported:
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
+![alt_text](./static/images/311.jpg)
 
 For example, here is an example of a Kong Route declaration with the AI Proxy Advanced plugin enabled to protect the text-to-image [OpenAI's Dall-E 2 model](https://openai.com/index/dall-e-2/),
 
