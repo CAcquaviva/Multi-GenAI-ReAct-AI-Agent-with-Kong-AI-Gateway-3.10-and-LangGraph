@@ -90,19 +90,11 @@ The artifacts used to implement the architecture are available at the following 
 
 In September, 2024, Google launched a white paper, called [“Agents”](https://www.kaggle.com/whitepaper-agents), exploring the basics of AI Agents, including their architectures and components. The fundamental diagram, included in the paper, is a nice starting point to understand the main moving parts someone working with AI Agents should master.
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![alt_text](./static/images/agent.jpg)
 
 *AI Agent components*
 
 The diagram presents three main components of an agent:
-
-
 
 * Model: the LLM model that will act as the centralized component responsible for guiding the agent’s decision-making processes.
 * Tools: allow Foundation Models to interact with external data and services
@@ -128,11 +120,8 @@ There are some Reasoning Frameworks defined the LLM models usually support:
 In the [blog post](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/) the ReAct white paper authors wrote, there's a nice diagram comparing the ReAct Framework with others:
 
 
+![alt_text](./static/images/react.jpg)
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
 
 
 *ReAct Framework comparison*
