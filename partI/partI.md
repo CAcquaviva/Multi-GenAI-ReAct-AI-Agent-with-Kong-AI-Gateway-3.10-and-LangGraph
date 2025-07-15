@@ -136,12 +136,7 @@ It's critical for AI Agents since you shape how the agents should communicate, t
 The same blog post also includes a nice comparison of four prompting methods to respond to a [HotpotQA](https://arxiv.org/abs/1809.09600). HotpotQA is a question answering dataset designed for multi-hop reasoning. You can learn more about it in the [HotpotQA GitHub repository](https://hotpotqa.github.io/).
 
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
+![alt_text](./static/images/prompt_engineering.jpg)
 
 *Prompt Engineering comparison*
 
