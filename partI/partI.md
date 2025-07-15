@@ -58,7 +58,6 @@ The diagram below represents the Kong AI Gateway capabilities:
 
 Also, from the architecture perspective, in a nutshell, the Konnect Control Plane and Data Plane nodes topology remains the same.
 
-
 ![alt_text](./static/images/kong_reference_architecture.jpg)
 
 
@@ -68,8 +67,6 @@ Also, from the architecture perspective, in a nutshell, the Konnect Control Plan
 ## Implementation Architecture
 
 The Agent implementation architecture should include components representing and responsible for the functional scope described above. The architecture comprises:
-
-
 
 * Kong AI Gateway to abstract and protect:
     * LLM models
@@ -81,12 +78,7 @@ The Agent implementation architecture should include components representing and
 
 Kong AI Gateway, implemented as a regular Konnect Data Plane Node, Redis, Ollama and the Observability layer run on a Minikube Kubernetes Cluster.
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](./static/images/multi_llm_reference_architecture.jpg)
 
 
 *Multi-LLM ReAct AI Agent Reference Architecture*
